@@ -1,0 +1,25 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "My First App",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovperin/FirstApp.git"
+  },
+  "keywords": [
+    "app",
+    "hybrid",
+    "ionic",
+    "angular"
+  ],
+  "author": "Perin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovperin/FirstApp/issues"
+  },
+  "homepage": "https://github.com/joaovperin/FirstApp#readme"
+}
